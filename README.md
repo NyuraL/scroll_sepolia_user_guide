@@ -22,5 +22,8 @@ https://faucet.chainstack.com
 ```
 https://infura.io/faucet/sepolia
 ```
-Once you receive ETH on Sepolia, you should see it in your wallet on the Sepolia Network. It may take a few seconds for them to appear, but you can check the status by looking for a transaction to your address on a Sepolia Block Explorer.
+Oncе you receive ETH on Sepolia, you should see it in your wallet on the Sepolia Network. It may take a few seconds for them to appear, but you can check the status by looking for a transaction to your address on a Sepolia Block Explorer.
+
+
+
 
