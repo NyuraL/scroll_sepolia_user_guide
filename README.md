@@ -3,9 +3,9 @@
 
 ### Sepolia Faucets
 
-Each faucet has its own rules and requirements, so you may need to try a few before you find one that works for you.
+>Each faucet has its own rules and requirements, so you may need to try a few before you find one that works for you.
 
-Here are a few Sepolia faucet apps:
+*Here are a few Sepolia faucet apps:*
 
 ~~~
 https://sepoliafaucet.com
